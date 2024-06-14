@@ -3,7 +3,9 @@ title = "Bis Zum Nächsten Jahr..."
 date = "2024-06-07"
 draft = false
 pinned = false
+tags = []
 image = "emre-slam-poetry-cover.jpg"
+description = "Slam Poetry Text von Emre Redzep, GYM2b"
 +++
 Wasser.\
 Wellen und Quellen.\
