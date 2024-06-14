@@ -1,8 +1,8 @@
 +++
-title = "About me"
+title = "Emre Redzep"
 draft = false
+image = ""
 description = ""
-image = "/img/default-author.jpg"
 +++
 ![](/img/default-author.jpg)
 
