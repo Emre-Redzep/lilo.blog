@@ -1,9 +1,10 @@
 +++
-title = "Inklusivität der unterschiedlichen Menschengruppen (Interview mit Hannah Elias, 25.02.2024)"
+title = "Inklusivität der unterschiedlichen Menschengruppen"
 date = "2024-05-16"
 draft = false
 pinned = false
 image = "hannah-elias.jpg"
+description = "Ein Interview von Emre Redzep, 18, mit Hannah Elias, 28, am 25.02.2024."
 +++
 **Guten Tag, Frau Elias. Erzählen Sie von ihren alltäglichen Tätigkeiten im Haus der Bewegung.**
 
