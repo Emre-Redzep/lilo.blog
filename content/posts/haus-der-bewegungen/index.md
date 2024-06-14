@@ -22,7 +22,7 @@ Das Interview fängt an. Ich atme tief durch und lasse mich so beginnen: "Was si
 
 "Wir führen Gespräche mit Verhandlungen für das Haus und überlegen, wer alles in dieses Haus hinein möchte. Wir haben mit all diesen Gruppen Kontakt und Öffentlichkeitsarbeit. Wir schreiben auch viele Texte und haben sehr viele Sitzungen."
 
-Ihr Sprechtempo und Lautstärke sind sehr angenehm und sie strahlt eine positive Energie. Durch Ihre Art und Weise des Sprechens ist es erkennbar, dass sie alltäglich nur Hochdeutsch spricht. Ich schaue sie neugierig an, während ich mich für eine etwas mehr herausfordernde, kühne Frage vorbereite. "Was hat Sie in Ihrem Leben motiviert, für die Inklusion der unterschiedlichen Menschengruppen beizutragen?".
+Ihr Sprechtempo und Lautstärke sind sehr angenehm und sie strahlt eine positive Energie. Durch Ihre Art und Weise des Sprechens ist es erkennbar, dass sie alltäglich nur Hochdeutsch spricht. Ich schaue sie neugierig an, während ich mich für eine etwas mehr herausfordernde Frage vorbereite. "Was hat Sie in Ihrem Leben motiviert, für die Inklusion der unterschiedlichen Menschengruppen beizutragen?".
 
 Hannah Elias sieht überrascht aus. Sie schaut nach oben und ein Lächeln ist ausdrücklich in ihrem Gesicht. Sie antwortet nach einer Zeit von Nachdenken: "Für mich war es immer ein Thema, Gerechtigkeit zu sehen..." Plötzlich unterbricht sie sich selbst und lacht: "Nein, wir löschen diese Antwort." Jetzt lachen wir beide. Das war die humorvolle Kulmination des Interviews. Die Antwort fand ich schön, aber vielleicht wollte sie eine konkretere Antwort für diese von ihr «gute, schwere Frage» genannte Frage geben.
 
