@@ -3,51 +3,52 @@ title = "Inklusivität der unterschiedlichen Menschengruppen (Interview mit Hann
 date = "2024-05-16"
 draft = false
 pinned = false
+image = "hannah-elias.jpg"
 +++
-Guten Tag, Frau Elias. Erzählen Sie von ihren alltäglichen Tätigkeiten im Haus der Bewegung.
+**Guten Tag, Frau Elias. Erzählen Sie von ihren alltäglichen Tätigkeiten im Haus der Bewegung.**
 
 Das Haus der Bewegung ist ein Projekt, wo wir versuchen, einen physischen Raum zu schaffen, um ganz viele unterschiedliche Menschen zusammenzubringen, um aktiv sein zu können, dass Menschen in der Gesellschaf aktiv gestalten können. Den Raum gibt es noch nicht und dazu wollen wir ein Haus kaufen. Jetzt müssen wir viele Sachen machen, um dieses Haus zu kaufen, unter anderem Gespräche führen mit Verhandlungen für das Haus und überlegen, wer alles in dieses Haus hinein möchte und mit all diesen Gruppen Kontakt haben und Öffentlichkeitsarbeit und Texte schreiben. Wir haben sehr viele Sitzungen, sehr viel schreiben, sehr viel Kommunikation, Koordination und Organisation.
 
-Und könnten Sie einige Beispiele von Situationen geben, wo sie versucht haben, diesen Raum zu schaffen?
+**Und könnten Sie einige Beispiele von Situationen geben, wo sie versucht haben, diesen Raum zu schaffen?**
 
 Wir haben bisher noch nicht die Zeit und die Kapazität gehabt, diesen Raum wirklich zu schaffen, aber wir haben unter anderem alle 3 Monate eine Vollversammlung, wo alle Mitglieder kommen können, aber auch Menschen, die Interesse haben am Projekt und da wollen wir wirklich versuchen, alles, was seit der letzten Vollversammlung passiert ist, den Menschen mitzugeben, ihnen die Zeit geben, Fragen zu stellen, Diskussionen zu ermöglichen, um möglichst viele Meinungen und Ideen zu bekommen und abzuholen. Manchmal funktioniert das gut, manchmal nicht so gut. Manchmal kommen nicht so viele Menschen, aber die meisten Menschen haben uns positive Rückmeldungen gegeben. Daran müssen wir noch arbeiten.
 
-In welchen Themen wollen sie eigentlich, dass die Menschen aktiv teilnehmen, Ideen vorschlagen und die Meinung äußern? Um welchen Themen geht es hauptsächlich?
+**In welchen Themen wollen sie eigentlich, dass die Menschen aktiv teilnehmen, Ideen vorschlagen und die Meinung äußern? Um welchen Themen geht es hauptsächlich?**
 
 Wenn wir diesen Ort haben und das Haus der Bewegung tatsächlich als Haus haben, geht es vor allem für uns um politische Beteiligung, Teilhabe der Menschen in ihrem Umfeld, Wandel herbeiführen können, den sie in der Gesellschaft sehen möchten. Sei es Klima, Queerfeminismus, Antikapitalismus, oder Antirassismus, ein gemeinsames, besseres Miteinander, dass Menschen da aktiv werden können, wo sie wollen und wo sie finden, dass die Gesellschaft eine Veränderung braucht, weil die Herausforderungen, die wir sehen, im Moment nicht durch eine parlamentarische Politik gelöst werden. Und wir glauben, dass es zivilgesellschaftliche Lösungen braucht, um diese großen Krisen oder die großen Herausforderungen, die kommen, zu bewältigen.
 
-Könnten Sie eine Herausforderung nennen?
+**Könnten Sie eine Herausforderung nennen?**
 
 Ich würde sagen, eine Herausforderung ist auf jeden Fall systemischer Rassismus, Rassismus in unserer Gesellschaft und wie Menschen behandelt werden. Unter anderem in der Schweiz, dass Menschen keine sehr lange, keinen sicheren Aufenthalt bekommen, oder dass Menschen mit Militär an den Außengrenzen zurückgehalten werden. Wir wollen in der Stadt Bern einen Ort kreieren, wo Menschen, die nach Bern zugezogen sind, ankommen können, der solidarisch ist, und diese Menschen nicht ablehnen, dass alle Menschen Platz haben können. Wir zeigen, dass ein Miteinander möglich ist. Es gibt sehr viele Herausforderungen in Bürokratie und eben dann Administration als Jobsuche. Wir möchten all diese Herausforderungen gemeinsam anschauen, schauen, wie wir uns gemeinsam auch emotional dabei halten können, füreinander da sein können und dass wir nicht allein sind mit allen unseren Problemen, sondern dass wir als Gemeinschaft, die alle zusammen in einer Stadt leben, die Herausforderungen zusammen bewältigen können.
 
-Was hat Sie in Ihrem Leben motiviert, für die Inklusion der Menschen aus unterschiedlichen Rassen, unterschiedlicher Herkunft, unterschiedliche sexuelle Orientierungen oder auch unterschiedliche Geschlechter mitzumachen und beizutragen?
+**Was hat Sie in Ihrem Leben motiviert, für die Inklusion der Menschen aus unterschiedlichen Rassen, unterschiedlicher Herkunft, unterschiedliche sexuelle Orientierungen oder auch unterschiedliche Geschlechter mitzumachen und beizutragen?**
 
 Eine gute Frage. Ich glaube, für mich war es immer ein Thema, Gerechtigkeit zu sehen. Ich habe viel Kontakt mit vielen Menschen. Ich habe an vielen unterschiedlichen Orten gelebt und viele Menschen dadurch kennengelernt und dadurch gesehen, welche unterschiedlichen Alltagsrealitäten es gibt auf der Welt. Ich fand es immer schwer, dann in meinen Alltag zurückzukommen und zu denken, dass es abgeschlossen ist, dass es ein eigener Teil ist, der unabhängig existiert, weil ich gesehen habe, wie wir alle zusammenhängen. Gerade mit der Klimakatastrophe, wenn wir irgendwie sehen wollen, ob wir noch Dinge verändern können. Ich glaube, dass das nur eine Gemeinschaft machen kann. Das ist mir ein Wunsch, Politisch etwas zu verändern und nicht die gleichen Sachen zu wiederholen, die schon begangen wurden.
 
-Haben Sie konkrete Fälle von Ungerechtigkeiten erlebt, die entweder auf sie persönlich waren oder dass sie dabei waren und es Ihnen stark beeinflusst hat, obwohl es Sie nicht direkt betraf?
+**Haben Sie konkrete Fälle von Ungerechtigkeiten erlebt, die entweder auf sie persönlich waren oder dass sie dabei waren und es Ihnen stark beeinflusst hat, obwohl es Sie nicht direkt betraf?**
 
 Was man oft in der Öffentlichkeit sieht, wo es sehr wahrscheinlich ist, dass sehr viele von uns schon bei so einer Situation dabei waren, ist zum Beispiel Passkontrollen oder Ausweiskontrollen von Menschen, die einem bestimmten Aussehen entsprechen. Von der Polizei werde ich selten gefragt, weil ich einfach ein sehr weißes Aussehen habe, während viele Menschen oft nach Ausweisen gefragt werden, nur weil sie anders aussehen. Das ist eine Ungerechtigkeit, die eigentlich sehr oft passiert und bei der ich auch oft dabei war, weil das oft im Zug oder auf der Straße passiert. Manchmal bist du hilflos, manchmal weißt du nicht, was du tun sollst, manchmal fragst du dich, was bringt das überhaupt, wenn ich etwas tue oder wenn du was getan hast. Da sind viele Ungerechtigkeiten im alltäglichen Leben. Von Freundinnen und Freunden um mich herum, die keinen Job finden, weil sie einen anderen Namen haben, oder keine Wohnung bekommen, oder abgelehnt werden, weil sie keine glaubwürdige Geschichte haben. Es gibt viele Ungerechtigkeiten, die sehr tief in unserem Alltag sind und noch sehr tief in der Politik verankert sind.
 
-Es wird oft so gesagt, dass die Schweiz, als Unterschied von vielen östlicheren Ländern, sehr liberal wirkt. Was ist Ihre Meinung dazu? Stimmen Sie zu?
+**Es wird oft so gesagt, dass die Schweiz, als Unterschied von vielen östlicheren Ländern, sehr liberal wirkt. Was ist Ihre Meinung dazu? Stimmen Sie zu?**
 
 Es kommt darauf an, auf was du hinauswillst oder was du meinst. Ich glaube, es gibt nicht nur eine Antwort. Es kommt auch drauf an, wie kritisch ich sein soll. Ich glaube, ich habe nicht so ein gutes Bild von der Schweiz. Ich glaube sie ist einfach sehr wirtschaftsorientiert und geldgeprägt und deswegen gehen menschliche Werte und Interessen an Menschenleben oft verloren. Da sehe ich die Schweiz nicht so liberal.
 
-Und wenn es um unterschiedliche Menschengruppen geht, vor allem um Frauenrechte oder auch Homosexuelle Menschen? Wie sehen Sie das dort?
+**Und wenn es um unterschiedliche Menschengruppen geht, vor allem um Frauenrechte oder auch Homosexuelle Menschen? Wie sehen Sie das dort?**
 
 Ja, ich glaube, es kann immer einen Vergleich getan werden. Im Vergleich zu Saudi-Arabien, die Schweiz macht bestimmt sehr viel für Rechte von Frauen und queeren Personen, aber ich glaube, es ist nicht, woran es gemessen werden sollte, es ist nicht das Limit, es kann immer mehr gemacht werden und auch in der Schweiz kann noch viel gemacht werden und gibt es noch viel Bedarf für die Rechte von unterschiedlichen Menschengruppen. Es passiert was, auf jeden Fall, aber die Schweiz hat ja auch erst 1971 das Frauenwahlrecht eingeführt, sehr spät im Vergleich zu vielen anderen Ländern. Also ich glaube noch nicht, dass es, dass wir am Ende sind.
 
-Meinen Sie, dass es immer noch nicht genug vom Thema gesprochen und dafür getan wird?
+**Meinen Sie, dass es immer noch nicht genug vom Thema gesprochen und dafür getan wird?**
 
 Ja, und ich glaube, es wird nicht genug gesprochen. Es ist noch nicht sehr verstanden, warum manche Sachen problematisch sind und in welcher Tiefe Themen besprochen werden müssen. Ich glaube, das letzte Beispiel war das Folgende: am 3. März gibt es wieder eine Abstimmung über die Renten. Letztes Jahr gab es auch schon eine Abstimmung über die Rente, dass das Rentenalter erhöht werden soll. Und dabei wird es gesagt, dass Menschen länger arbeiten. Je mehr Menschen arbeiten, desto mehr können sie einzahlen ins Rentensystem, und dann kriegen sie mehr Geld. Aber gleichzeitig wird das, was Frauen oft in der Gesellschaft leisten, zum Beispiel die Sorgearbeit, Kinder pflegen, oder Putzen, wird oft nicht beachtet und es zählt auch nicht als Arbeit und deswegen bekommen Frauen, die das meistens machen, weniger Rente, weil sie mehr Sorgearbeit leisten für viele andere Personen in der Gesellschaft, und das wird in der Schweiz schon lange nicht als wichtig angesehen. Stattdessen wird eher das Gegenteil gemacht und das Rentenalter erhöht. Oder auch bei sexueller Selbstbestimmung. „Nein“ heißt einfach Nein. Über Vergewaltigung und Missbrauchsfälle gibt es auch immer noch keine klaren Regelungen und Gesetze. Ich glaube, es ist sehr viel noch zu machen. Es braucht sehr viel Arbeit in der Bevölkerung, darüber nachdenken, was es bedeutet, welche Doppelrollen oft Frauen haben, usw. Es ist auch wichtig, dass es nicht einfach nur heißt, „es braucht mehr Frauen in bestimmten Positionen“, sondern es ist etwas, wo ein ganzes System darüber nachdenken muss. Wie kann eine bessere Gleichstellung in der Gesellschaft passieren? Wie können wir alle auf Augenhöhe miteinander reden, ohne dass eine Person immer noch irgendwo eine Machtposition hat?
 
-Ihre Gruppe, oder vielleicht auch nur Sie, was für Bewegungen planen Sie, um diese 2 Themen weiterzubringen?
+**Ihre Gruppe, oder vielleicht auch nur Sie, was für Bewegungen planen Sie, um diese 2 Themen weiterzubringen?**
 
 Wir haben viele Gruppen. Bisher haben wir noch nicht konkret und aktiv gemacht, weil wir noch im Aufbau sind. Deswegen gibt es keine Antwort für diese Frage. Aber wir haben also mit unterschiedlichen Gruppen Kontakt, wir haben mit sehr vielen Gruppen Kontakt. Mit feministischen Gruppen, antirassistischen Gruppen, Klimagruppen und weitere Gruppen. Wir haben mit über 60 Gruppen Kontakt in Bern, die aktiv sind. Aber wir haben sie noch nicht zusammengebracht, weil wir noch nicht den Raum haben. Wenn das kommt, dann haben wir schon vor, auch Workshops anzubieten, wo Themen miteinander gekreuzt werden, wo Verbindungen gefunden werden, wo gemeinsam argumentiert werden kann, gemeinsamen Austausch von Erfahrungen, gemeinsame Mediaarbeit, um all das Potenzial, was da ist, und die ganzen Ressourcen zu teilen, und besser nutzen zu können.
 
-Wollen Sie mit diesen Gruppen, die über 60 sind, zusammenarbeiten, erst wenn Sie das Haus haben?
+**Wollen Sie mit diesen Gruppen, die über 60 sind, zusammenarbeiten, erst wenn Sie das Haus haben?**
 
 Ja. Jetzt sind wir noch im Aufbau und es geht gerade viel Zeit darauf, das Haus zu kaufen und zu organisieren, wie so ein Zusammenleben aussehen könnte. Mit einzelnen Gruppen stehen wir schon in Kontakt und es finden schon Workshops statt. Aber eigentlich müssen wir schauen, weil es die Idee gibt, ein Haus zu kaufen und dann einen Ort zu haben, aber zum anderen auch eine Vernetzung zu organisieren. Jetzt fangen wir langsam auch an, die Vernetzung von den Gruppen besser zu planen. Aber da sind wir noch nicht weit. Wir sind erst am Anfang.
 
-Und was ist Ihr Moto? Was ist Ihre Vision?
+**Und was ist Ihr Moto? Was ist Ihre Vision?**
 
 Die Vision ist, ein Haus zu schaffen, wo Menschen miteinander sein und wirken können, wie sie wollen und. Einen Ort zu schaffen, der solidarisch miteinander lebt und existiert.
